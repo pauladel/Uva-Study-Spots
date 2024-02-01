@@ -1,0 +1,202 @@
+body,
+html {
+  height: 100%;
+}
+
+footer {
+    background-color: #003368;
+}
+
+nav {
+    background-color: #003368;
+}
+
+.nav-color {
+    color: white;
+}
+
+/*.navbar{*/
+/*    height: 10vh;*/
+/*}*/
+
+/*.footer{*/
+/*    padding-top: 10px;*/
+/*}*/
+
+.footer-div p {
+    color: white;
+}
+
+.mapholder {
+    height: 100%;
+    width: 100%;
+}
+
+#map {
+    height: 100%
+}
+
+.content-box {
+    width: 100%;
+    height: 100%;
+    background-color: #eeeeee;
+}
+
+.list-container{
+    width: 100%;
+    height: 95%;
+    overflow: hidden;
+    position: relative;
+}
+
+.list-constraint{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    overflow-y:scroll;
+    -webkit-overflow-scrolling: touch;
+}
+
+.studyspot-list-item-spot{
+    list-style: decimal inside none;;
+}
+
+
+.home-text {
+    font-size: 1rem;
+}
+
+.comment-list {
+    max-height: 33vh; /* Adjust as needed */
+    overflow-y: auto;
+}
+
+.comment-text {
+    border: 1px solid #000; /* Adjust as needed */
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 1rem;
+}
+
+/* btn for studyspace.html */
+.review-space-btn {
+    position: absolute;  
+    right: 0; 
+    margin-right: 15px;
+    font-size: 2rem;
+}
+
+.btn {
+    background-color: #003368; 
+    color: #ffffff;
+}
+
+@media only screen and (max-device-width : 480px) {
+    /* mobile */
+
+    /* header footer -> base.html */
+    .nav-link-text {
+        font-size: 2.5rem;
+    }
+
+    .footer-text {
+        font-size: 1.5rem;
+    }
+
+    .nav-link-item {
+        font-size: 1.5rem;
+    }
+
+    .title-text {
+        font-size: 4rem;
+    }
+
+    /* Studyspace pages -> studyspace.html and connected form */
+    .home-text {
+        font-size: 2.5rem;
+    }
+
+    .comment-text {
+        font-size: 2.5rem;
+    }
+
+    .study-space-btn {
+        font-size: 2.5rem;
+    }
+
+    select.form-control {
+        font-size: 1.7rem;
+    }
+
+    textarea.study-space-form {
+        font-size: 2.5rem;
+    }
+}
+
+@media screen and (min-device-width: 481px){
+    /* desktop */
+
+    /* header footer -> base.html */
+    .footer-text {
+        font-size: 1rem;
+    }
+
+    .nav-link-item {
+        font-size: 1.3rem;
+    }
+
+    .nav-link-text {
+        font-size: 2rem;
+    }
+
+    /* Studyspace pages -> studyspace.html and connected form */
+    .home-text {
+        font-size: 2rem;
+    }
+
+    .comment-text {
+        border: 1px solid #000; /* Adjust as needed */
+        margin-bottom: 10px;
+        padding: 10px;
+        font-size: 2rem;
+    }
+
+    .title-text {
+        font-size: 3rem;
+    }
+
+    /*.main-wrapper {*/
+    /*    display: flex;*/
+    /*    height: 100vh;*/
+    /*    width: 100vw;*/
+    /*}*/
+
+    /*.mapholder {*/
+    /*    height: 80vh;*/
+    /*    width: 95vw;*/
+    /*}*/
+
+    #map {
+    }
+
+    .comment-list {
+        max-height: 60vh; /* Adjust as needed */
+        overflow-y: auto;
+        width: 100%;
+    }
+
+    .form-p {
+        font-size: 1.5rem;
+    }
+
+    .review_spot_btn {
+        position: absolute;
+        top: 27.5%;
+        right: 0;
+        margin-right: 15px;
+    }
+
+    .btn {
+        font-size: 1.25rem;
+    }
+}

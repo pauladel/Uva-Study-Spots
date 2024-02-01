@@ -1,0 +1,2998 @@
+[
+    {
+        "studyspace_id": 1,
+        "name": "Brooks 103",
+        "location_id_id": 2,
+        "space_type": "Classroom",
+        "capacity": 20,
+        "link": "https://classrooms.its.virginia.edu/list/brooks-103-0",
+        "reservable": false,
+            "comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 2,
+        "name": "Bryan 203",
+        "location_id_id": 42,
+        "space_type": "Classroom",
+        "capacity": 18,
+        "link": "https://classrooms.its.virginia.edu/list/bryan-203",
+        "reservable": false,
+        "comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 3,
+        "name": "Bryan 235",
+        "location_id_id": 42,
+        "space_type": "Classroom",
+        "capacity": 30,
+        "link": "https://classrooms.its.virginia.edu/list/bryan-235",
+        "reservable": false,
+        "comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 4,
+        "name": "Bryan 310",
+        "location_id_id": 42,
+        "space_type": "Classroom",
+        "capacity": 18,
+        "link": "https://classrooms.its.virginia.edu/list/bryan-310",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 5,
+        "name": "Bryan 312",
+        "location_id_id": 42,
+        "space_type": "Classroom",
+        "capacity": 18,
+        "link": "https://classrooms.its.virginia.edu/list/bryan-312",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 6,
+        "name": "Bryan 328",
+        "location_id_id": 42,
+        "space_type": "Classroom",
+        "capacity": 30,
+        "link": "https://classrooms.its.virginia.edu/list/bryan-328",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 7,
+        "name": "Bryan 330",
+        "location_id_id": 42,
+        "space_type": "Classroom",
+        "capacity": 18,
+        "link": "https://classrooms.its.virginia.edu/list/bryan-330",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 8,
+        "name": "Bryan 332",
+        "location_id_id": 42,
+        "space_type": "Classroom",
+        "capacity": 18,
+        "link": "https://classrooms.its.virginia.edu/list/campbell-108",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 9,
+        "name": "Bryan 334",
+        "location_id_id": 42,
+        "space_type": "Classroom",
+        "capacity": 18,
+        "link": "https://classrooms.its.virginia.edu/list/bryan-334",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 10,
+        "name": "Campbell 105 (Architecture)",
+        "location_id_id": 5,
+        "space_type": "Classroom",
+        "capacity": 40,
+        "link": "https://classrooms.its.virginia.edu/list/campbell-105-architecture",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 11,
+        "name": "Campbell 108",
+        "location_id_id": 5,
+        "space_type": "Classroom",
+        "capacity": 20,
+        "link": "https://classrooms.its.virginia.edu/list/campbell-108",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 12,
+        "name": "Campbell 153 (Architecture)",
+        "location_id_id": 5,
+        "space_type": "Classroom",
+        "capacity": 154,
+        "link": "https://classrooms.its.virginia.edu/list/campbell-153-architecture-0",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 13,
+        "name": "Campbell 158 (Architecture)",
+        "location_id_id": 5,
+        "space_type": "Classroom",
+        "capacity": 96,
+        "link": "https://classrooms.its.virginia.edu/list/campbell-158-architecture",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 14,
+        "name": "Campbell 160",
+        "location_id_id": 5,
+        "space_type": "Classroom",
+        "capacity": 93,
+        "link": "https://classrooms.its.virginia.edu/list/campbell-160",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 15,
+        "name": "Chemical Engineering 005",
+        "location_id_id": 6,
+        "space_type": "Classroom",
+        "capacity": 70,
+        "link": "https://classrooms.its.virginia.edu/list/chemical-engineering-005",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 16,
+        "name": "Chemistry 204",
+        "location_id_id": 10,
+        "space_type": "Classroom",
+        "capacity": 54,
+        "link": "https://classrooms.its.virginia.edu/list/chemistry-204",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 17,
+        "name": "Chemistry 206",
+        "location_id_id": 10,
+        "space_type": "Classroom",
+        "capacity": 56,
+        "link": "https://classrooms.its.virginia.edu/list/chemistry-206",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 18,
+        "name": "Chemistry 217",
+        "location_id_id": 10,
+        "space_type": "Classroom",
+        "capacity": 99,
+        "link": "https://classrooms.its.virginia.edu/list/chemistry-217",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 19,
+        "name": "Chemistry 306",
+        "location_id_id": 10,
+        "space_type": "Classroom",
+        "capacity": 35,
+        "link": "https://classrooms.its.virginia.edu/list/chemistry-306",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 20,
+        "name": "Chemistry 402",
+        "location_id_id": 10,
+        "space_type": "Classroom",
+        "capacity": 484,
+        "link": "https://classrooms.its.virginia.edu/list/chemistry-402",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 21,
+        "name": "Clark 101",
+        "location_id_id": 11,
+        "space_type": "Classroom",
+        "capacity": 36,
+        "link": "https://classrooms.its.virginia.edu/list/clark-101",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 22,
+        "name": "Clark 102",
+        "location_id_id": 11,
+        "space_type": "Classroom",
+        "capacity": 36,
+        "link": "https://classrooms.its.virginia.edu/list/clark-102",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 23,
+        "name": "Clark 107",
+        "location_id_id": 11,
+        "space_type": "Classroom",
+        "capacity": 140,
+        "link": "https://classrooms.its.virginia.edu/list/clark-107",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 24,
+        "name": "Clark 108",
+        "location_id_id": 11,
+        "space_type": "Classroom",
+        "capacity": 163,
+        "link": "https://classrooms.its.virginia.edu/list/clark-108",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 25,
+        "name": "Clark G004",
+        "location_id_id": 11,
+        "space_type": "Classroom",
+        "capacity": 40,
+        "link": "https://classrooms.its.virginia.edu/list/clark-g004",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 26,
+        "name": "Clark G043",
+        "location_id_id": 7,
+        "space_type": "Classroom",
+        "capacity": 10,
+        "link": "https://classrooms.its.virginia.edu/list/clark-g043",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 27,
+        "name": "Claude Moore Nursing 1110 (Nursing)",
+        "location_id_id": 7,
+        "space_type": "Classroom",
+        "capacity": 45,
+        "link": "https://classrooms.its.virginia.edu/list/claude-moore-nursing-1110-nursing",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 28,
+        "name": "Claude Moore Nursing 1120 (Nursing)",
+        "location_id_id": 7,
+        "space_type": "Classroom",
+        "capacity": 40,
+        "link": "https://classrooms.its.virginia.edu/list/claude-moore-nursing-1120-nursing",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 29,
+        "name": "Claude Moore Nursing 2018 (Nursing)",
+        "location_id_id": 7,
+        "space_type": "Classroom",
+        "capacity": 12,
+        "link": "https://classrooms.its.virginia.edu/list/claude-moore-nursing-2018-nursing",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 30,
+        "name": "Claude Moore Nursing 3018 (Nursing)",
+        "location_id_id": 7,
+        "space_type": "Classroom",
+        "capacity": 12,
+        "link": "https://classrooms.its.virginia.edu/list/claude-moore-nursing-3018-nursing",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 31,
+        "name": "Claude Moore Nursing 3020 (Nursing)",
+        "location_id_id": 7,
+        "space_type": "Classroom",
+        "capacity": 35,
+        "link": "https://classrooms.its.virginia.edu/list/claude-moore-nursing-3020-nursing",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 32,
+        "name": "Claude Moore Nursing G010 (Nursing)",
+        "location_id_id": 7,
+        "space_type": "Classroom",
+        "capacity": 125,
+        "link": "https://classrooms.its.virginia.edu/list/claude-moore-nursing-g010-nursing",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 33,
+        "name": "Claude Moore Nursing G120 (Nursing)",
+        "location_id_id": 7,
+        "space_type": "Classroom",
+        "capacity": 75,
+        "link": "https://classrooms.its.virginia.edu/list/claude-moore-nursing-g120-nursing",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 34,
+        "name": "Clemons 320",
+        "location_id_id": 12,
+        "space_type": "Classroom",
+        "capacity": 20,
+        "link": "https://classrooms.its.virginia.edu/list/clemons-320",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 35,
+        "name": "Cocke 101",
+        "location_id_id": 9,
+        "space_type": "Classroom",
+        "capacity": 20,
+        "link": "https://classrooms.its.virginia.edu/list/cocke-101",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 36,
+        "name": "Cocke 115",
+        "location_id_id": 9,
+        "space_type": "Classroom",
+        "capacity": 30,
+        "link": "https://classrooms.its.virginia.edu/list/cocke-115",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 37,
+        "name": "Drama 206",
+        "location_id_id": 13,
+        "space_type": "Classroom",
+        "capacity": 20,
+        "link": "https://classrooms.its.virginia.edu/list/drama-206",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 38,
+        "name": "Drama 217",
+        "location_id_id": 13,
+        "space_type": "Classroom",
+        "capacity": 40,
+        "link": "https://classrooms.its.virginia.edu/list/drama-217",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 39,
+        "name": "Gibson 041",
+        "location_id_id": 14,
+        "space_type": "Classroom",
+        "capacity": 28,
+        "link": "https://classrooms.its.virginia.edu/list/gibson-041",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 40,
+        "name": "Gibson 141",
+        "location_id_id": 14,
+        "space_type": "Classroom",
+        "capacity": 30,
+        "link": "https://classrooms.its.virginia.edu/list/gibson-141",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 41,
+        "name": "Gibson 142",
+        "location_id_id": 14,
+        "space_type": "Classroom",
+        "capacity": 20,
+        "link": "https://classrooms.its.virginia.edu/list/gibson-142",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 42,
+        "name": "Gibson 211",
+        "location_id_id": 14,
+        "space_type": "Classroom",
+        "capacity": 60,
+        "link": "https://classrooms.its.virginia.edu/list/gibson-211",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 43,
+        "name": "Gibson 241",
+        "location_id_id": 14,
+        "space_type": "Classroom",
+        "capacity": 20,
+        "link": "https://classrooms.its.virginia.edu/list/gibson-241",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 44,
+        "name": "Gibson 242",
+        "location_id_id": 14,
+        "space_type": "Classroom",
+        "capacity": 30,
+        "link": "https://classrooms.its.virginia.edu/list/gibson-242",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 45,
+        "name": "Gilmer 245",
+        "location_id_id": 15,
+        "space_type": "Classroom",
+        "capacity": 25,
+        "link": "https://classrooms.its.virginia.edu/list/gilmer-245",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 46,
+        "name": "Gilmer 247",
+        "location_id_id": 15,
+        "space_type": "Classroom",
+        "capacity": 42,
+        "link": "https://classrooms.its.virginia.edu/list/gilmer-247",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 47,
+        "name": "Gilmer 257",
+        "location_id_id": 15,
+        "space_type": "Classroom",
+        "capacity": 63,
+        "link": "https://classrooms.its.virginia.edu/list/gilmer-257",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 48,
+        "name": "Gilmer 301",
+        "location_id_id": 15,
+        "space_type": "Classroom",
+        "capacity": 338,
+        "link": "https://classrooms.its.virginia.edu/list/gilmer-301",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 49,
+        "name": "Gilmer 390",
+        "location_id_id": 15,
+        "space_type": "Classroom",
+        "capacity": 151,
+        "link": "https://classrooms.its.virginia.edu/list/gilmer-390",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 50,
+        "name": "Jesser 171",
+        "location_id_id": 22,
+        "space_type": "Classroom",
+        "capacity": 25,
+        "link": "https://classrooms.its.virginia.edu/list/jesser-171",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 51,
+        "name": "McLeod 1003 (Nursing)",
+        "location_id_id": 41,
+        "space_type": "Classroom",
+        "capacity": 60,
+        "link": "https://classrooms.its.virginia.edu/list/mcleod-1003-nursing",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 52,
+        "name": "McLeod 1004 (Nursing)",
+        "location_id_id": 41,
+        "space_type": "Classroom",
+        "capacity": 60,
+        "link": "https://classrooms.its.virginia.edu/list/mcleod-1004-nursing",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 53,
+        "name": "McLeod 1009 (Nursing)",
+        "location_id_id": 41,
+        "space_type": "Classroom",
+        "capacity": 14,
+        "link": "https://classrooms.its.virginia.edu/list/mcleod-1009-nursing",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 54,
+        "name": "McLeod 1020 (Nursing)",
+        "location_id_id": 41,
+        "space_type": "Classroom",
+        "capacity": 476,
+        "link": "https://classrooms.its.virginia.edu/list/mcleod-1020-nursing",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 55,
+        "name": "McLeod 4072 (Nursing)",
+        "location_id_id": 41,
+        "space_type": "Classroom",
+        "capacity": 12,
+        "link": "https://classrooms.its.virginia.edu/list/mcleod-4072-nursing",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 56,
+        "name": "McLeod 5024 (Nursing)",
+        "location_id_id": 41,
+        "space_type": "Classroom",
+        "capacity": 8,
+        "link": "https://classrooms.its.virginia.edu/list/mcleod-5024-nursing",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 57,
+        "name": "McLeod 5060 (Nursing)",
+        "location_id_id": 41,
+        "space_type": "Classroom",
+        "capacity": 30,
+        "link": "https://classrooms.its.virginia.edu/list/mcleod-5060-nursing",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 58,
+        "name": "Mechanical Engineering 205",
+        "location_id_id": 18,
+        "space_type": "Classroom",
+        "capacity": 150,
+        "link": "https://classrooms.its.virginia.edu/list/mechanical-engineering-205",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 59,
+        "name": "Mechanical Engineering 206",
+        "location_id_id": 18,
+        "space_type": "Classroom",
+        "capacity": 20,
+        "link": "https://classrooms.its.virginia.edu/list/mechanical-engineering-206",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 60,
+        "name": "Mechanical Engineering 213",
+        "location_id_id": 18,
+        "space_type": "Classroom",
+        "capacity": 48,
+        "link": "https://classrooms.its.virginia.edu/list/mechanical-engineering-213",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 61,
+        "name": "Mechanical Engineering 214",
+        "location_id_id": 18,
+        "space_type": "Classroom",
+        "capacity": 30,
+        "link": "https://classrooms.its.virginia.edu/list/mechanical-engineering-214",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 62,
+        "name": "Mechanical Engineering 215",
+        "location_id_id": 18,
+        "space_type": "Classroom",
+        "capacity": 32,
+        "link": "https://classrooms.its.virginia.edu/list/mechanical-engineering-215",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 63,
+        "name": "Mechanical Engineering 339",
+        "location_id_id": 18,
+        "space_type": "Classroom",
+        "capacity": 72,
+        "link": "https://classrooms.its.virginia.edu/list/mechanical-engineering-339",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 64,
+        "name": "Mechanical Engineering 341",
+        "location_id_id": 18,
+        "space_type": "Classroom",
+        "capacity": 84,
+        "link": "https://classrooms.its.virginia.edu/list/mechanical-engineering-341",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 65,
+        "name": "Minor 125",
+        "location_id_id": 19,
+        "space_type": "Classroom",
+        "capacity": 200,
+        "link": "https://classrooms.its.virginia.edu/list/minor-125",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 66,
+        "name": "Minor 130",
+        "location_id_id": 19,
+        "space_type": "Classroom",
+        "capacity": 30,
+        "link": "https://classrooms.its.virginia.edu/list/minor-130",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 67,
+        "name": "Monroe 110",
+        "location_id_id": 20,
+        "space_type": "Classroom",
+        "capacity": 60,
+        "link": "https://classrooms.its.virginia.edu/list/monroe-110",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 68,
+        "name": "Monroe 111",
+        "location_id_id": 20,
+        "space_type": "Classroom",
+        "capacity": 40,
+        "link": "https://classrooms.its.virginia.edu/list/monroe-111",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 69,
+        "name": "Monroe 113",
+        "location_id_id": 20,
+        "space_type": "Classroom",
+        "capacity": 10,
+        "link": "https://classrooms.its.virginia.edu/list/monroe-113",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 70,
+        "name": "Monroe 114",
+        "location_id_id": 20,
+        "space_type": "Classroom",
+        "capacity": 24,
+        "link": "https://classrooms.its.virginia.edu/list/monroe-114",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 71,
+        "name": "Monroe 116",
+        "location_id_id": 20,
+        "space_type": "Classroom",
+        "capacity": 49,
+        "link": "https://classrooms.its.virginia.edu/list/monroe-116",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 72,
+        "name": "Monroe 118",
+        "location_id_id": 20,
+        "space_type": "Classroom",
+        "capacity": 40,
+        "link": "https://classrooms.its.virginia.edu/list/monroe-118",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 73,
+        "name": "Monroe 122",
+        "location_id_id": 20,
+        "space_type": "Classroom",
+        "capacity": 40,
+        "link": "https://classrooms.its.virginia.edu/list/monroe-122",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 74,
+        "name": "Monroe 124",
+        "location_id_id": 20,
+        "space_type": "Classroom",
+        "capacity": 68,
+        "link": "https://classrooms.its.virginia.edu/list/monroe-124",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 75,
+        "name": "Monroe 130",
+        "location_id_id": 20,
+        "space_type": "Classroom",
+        "capacity": 100,
+        "link": "https://classrooms.its.virginia.edu/list/monroe-130",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 76,
+        "name": "Monroe 134",
+        "location_id_id": 20,
+        "space_type": "Classroom",
+        "capacity": 60,
+        "link": "https://classrooms.its.virginia.edu/list/monroe-134",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 77,
+        "name": "Nau 101",
+        "location_id_id": 23,
+        "space_type": "Classroom",
+        "capacity": 245,
+        "link": "https://classrooms.its.virginia.edu/list/nau-101",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 78,
+        "name": "Nau 141",
+        "location_id_id": 23,
+        "space_type": "Classroom",
+        "capacity": 30,
+        "link": "https://classrooms.its.virginia.edu/list/nau-141",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 79,
+        "name": "Nau 142",
+        "location_id_id": 23,
+        "space_type": "Classroom",
+        "capacity": 20,
+        "link": "https://classrooms.its.virginia.edu/list/nau-142",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 80,
+        "name": "Nau 211",
+        "location_id_id": 23,
+        "space_type": "Classroom",
+        "capacity": 60,
+        "link": "https://classrooms.its.virginia.edu/list/nau-211",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 81,
+        "name": "Nau 241",
+        "location_id_id": 23,
+        "space_type": "Classroom",
+        "capacity": 20,
+        "link": "https://classrooms.its.virginia.edu/list/nau-241",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 82,
+        "name": "Nau 242",
+        "location_id_id": 23,
+        "space_type": "Classroom",
+        "capacity": 25,
+        "link": "https://classrooms.its.virginia.edu/list/nau-242",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 83,
+        "name": "New Cabell 027",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 25,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-027",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 84,
+        "name": "New Cabell 032",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 35,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-032",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 85,
+        "name": "New Cabell 036",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 18,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-036",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 86,
+        "name": "New Cabell 038",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 14,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-038",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 87,
+        "name": "New Cabell 042",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 15,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-042",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 88,
+        "name": "New Cabell 044",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 18,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-044",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 89,
+        "name": "New Cabell 056",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 18,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-056",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 90,
+        "name": "New Cabell 058",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 35,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-058",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 91,
+        "name": "New Cabell 064",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 18,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-064",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 92,
+        "name": "New Cabell 066",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 15,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-066",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 93,
+        "name": "New Cabell 068",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 18,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-068",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 94,
+        "name": "New Cabell 107",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 20,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-107",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 95,
+        "name": "New Cabell 111",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 20,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-111",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 96,
+        "name": "New Cabell 115",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 20,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-115",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 97,
+        "name": "New Cabell 132",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 35,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-132",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 98,
+        "name": "New Cabell 168",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 35,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-168",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 99,
+        "name": "New Cabell 183",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 20,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-183",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 100,
+        "name": "New Cabell 187",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 20,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-187",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 101,
+        "name": "New Cabell 191",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 20,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-191",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 102,
+        "name": "New Cabell 207",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 20,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-207",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 103,
+        "name": "New Cabell 209",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 21,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-209",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 104,
+        "name": "New Cabell 211",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 20,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-211",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 105,
+        "name": "New Cabell 232",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 40,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-232",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 106,
+        "name": "New Cabell 268",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 24,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-268",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 107,
+        "name": "New Cabell 283",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 20,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-283",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 108,
+        "name": "New Cabell 287",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 20,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-287",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 109,
+        "name": "New Cabell 291",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 20,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-291",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 110,
+        "name": "New Cabell 303",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 25,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-303",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 111,
+        "name": "New Cabell 309",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 40,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-309",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 112,
+        "name": "New Cabell 315",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 28,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-315",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 113,
+        "name": "New Cabell 323",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 45,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-323",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 114,
+        "name": "New Cabell 332",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 32,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-332",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 115,
+        "name": "New Cabell 338",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 30,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-338",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 116,
+        "name": "New Cabell 364",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 32,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-364",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 117,
+        "name": "New Cabell 368",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 28,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-368",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 118,
+        "name": "New Cabell 383",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 30,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-383",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 119,
+        "name": "New Cabell 389",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 40,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-389",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 120,
+        "name": "New Cabell 395",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 25,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-395",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 121,
+        "name": "New Cabell 407",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 20,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-407",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 122,
+        "name": "New Cabell 411",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 20,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-411",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 123,
+        "name": "New Cabell 415",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 20,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-415",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 124,
+        "name": "New Cabell 485",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 30,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-485",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 125,
+        "name": "New Cabell 489",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 40,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-489",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 126,
+        "name": "New Cabell 594",
+        "location_id_id": 4,
+        "space_type": "Classroom",
+        "capacity": 18,
+        "link": "https://classrooms.its.virginia.edu/list/new-cabell-594",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 127,
+        "name": "Olsson 001",
+        "location_id_id": 26,
+        "space_type": "Classroom",
+        "capacity": 48,
+        "link": "https://classrooms.its.virginia.edu/list/olsson-001",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 128,
+        "name": "Olsson 005",
+        "location_id_id": 26,
+        "space_type": "Classroom",
+        "capacity": 80,
+        "link": "https://classrooms.its.virginia.edu/list/olsson-005",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 129,
+        "name": "Olsson 009",
+        "location_id_id": 26,
+        "space_type": "Classroom",
+        "capacity": 82,
+        "link": "https://classrooms.its.virginia.edu/list/olsson-009",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 130,
+        "name": "Olsson 011",
+        "location_id_id": 26,
+        "space_type": "Classroom",
+        "capacity": 76,
+        "link": "https://classrooms.its.virginia.edu/list/olsson-011",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 131,
+        "name": "Olsson 018",
+        "location_id_id": 26,
+        "space_type": "Classroom",
+        "capacity": 90,
+        "link": "https://classrooms.its.virginia.edu/list/olsson-018",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 132,
+        "name": "Olsson 120",
+        "location_id_id": 26,
+        "space_type": "Classroom",
+        "capacity": 148,
+        "link": "https://classrooms.its.virginia.edu/list/olsson-120",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 133,
+        "name": "Pavilion V 109",
+        "location_id_id": 29,
+        "space_type": "Classroom",
+        "capacity": 10,
+        "link": "https://classrooms.its.virginia.edu/list/pavilion-v-109",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 134,
+        "name": "Pavilion V 110",
+        "location_id_id": 29,
+        "space_type": "Classroom",
+        "capacity": 10,
+        "link": "https://classrooms.its.virginia.edu/list/pavilion-v-110",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 135,
+        "name": "Pavilion VIII 102",
+        "location_id_id": 30,
+        "space_type": "Classroom",
+        "capacity": 20,
+        "link": "https://classrooms.its.virginia.edu/list/pavilion-viii-102",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 136,
+        "name": "Pavilion VIII 103",
+        "location_id_id": 30,
+        "space_type": "Classroom",
+        "capacity": 18,
+        "link": "https://classrooms.its.virginia.edu/list/pavilion-viii-103-0",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 137,
+        "name": "Pavilion VIII 105",
+        "location_id_id": 30,
+        "space_type": "Classroom",
+        "capacity": 10,
+        "link": "https://classrooms.its.virginia.edu/list/pavilion-viii-105",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 138,
+        "name": "Pavilion VIII 108",
+        "location_id_id": 30,
+        "space_type": "Classroom",
+        "capacity": 18,
+        "link": "https://classrooms.its.virginia.edu/list/pavilion-viii-108-0",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 139,
+        "name": "Randall 112",
+        "location_id_id": 31,
+        "space_type": "Classroom",
+        "capacity": 12,
+        "link": "https://classrooms.its.virginia.edu/list/randall-112",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 140,
+        "name": "Rice Hall 011",
+        "location_id_id": 34,
+        "space_type": "Classroom",
+        "capacity": 24,
+        "link": "https://classrooms.its.virginia.edu/list/rice-hall-011",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 141,
+        "name": "Rice Hall 032",
+        "location_id_id": 34,
+        "space_type": "Classroom",
+        "capacity": 35,
+        "link": "https://classrooms.its.virginia.edu/list/rice-hall-032",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 142,
+        "name": "Rice Hall 130",
+        "location_id_id": 34,
+        "space_type": "Classroom",
+        "capacity": 168,
+        "link": "https://classrooms.its.virginia.edu/list/rice-hall-130",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 143,
+        "name": "Rice Hall 340",
+        "location_id_id": 34,
+        "space_type": "Classroom",
+        "capacity": 38,
+        "link": "https://classrooms.its.virginia.edu/list/rice-hall-340",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 144,
+        "name": "Ridley 123",
+        "location_id_id": 33,
+        "space_type": "Classroom",
+        "capacity": 16,
+        "link": "https://classrooms.its.virginia.edu/list/ridley-123",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 145,
+        "name": "Ridley 125",
+        "location_id_id": 33,
+        "space_type": "Classroom",
+        "capacity": 16,
+        "link": "https://classrooms.its.virginia.edu/list/ridley-125",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 146,
+        "name": "Ridley 127",
+        "location_id_id": 33,
+        "space_type": "Classroom",
+        "capacity": 40,
+        "link": "https://classrooms.its.virginia.edu/list/ridley-127",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 147,
+        "name": "Ridley 137",
+        "location_id_id": 33,
+        "space_type": "Classroom",
+        "capacity": 40,
+        "link": "https://classrooms.its.virginia.edu/list/ridley-137",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 148,
+        "name": "Ridley 139",
+        "location_id_id": 33,
+        "space_type": "Classroom",
+        "capacity": 30,
+        "link": "https://classrooms.its.virginia.edu/list/ridley-139",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 149,
+        "name": "Ridley 173",
+        "location_id_id": 33,
+        "space_type": "Classroom",
+        "capacity": 30,
+        "link": "https://classrooms.its.virginia.edu/list/ridley-173",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 150,
+        "name": "Ridley 175",
+        "location_id_id": 33,
+        "space_type": "Classroom",
+        "capacity": 32,
+        "link": "https://classrooms.its.virginia.edu/list/ridley-175",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 151,
+        "name": "Ridley 177",
+        "location_id_id": 33,
+        "space_type": "Classroom",
+        "capacity": 40,
+        "link": "https://classrooms.its.virginia.edu/list/ridley-177",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 152,
+        "name": "Ridley 179",
+        "location_id_id": 33,
+        "space_type": "Classroom",
+        "capacity": 40,
+        "link": "https://classrooms.its.virginia.edu/list/ridley-179",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 153,
+        "name": "RIdley G004",
+        "location_id_id": 33,
+        "space_type": "Classroom",
+        "capacity": 82,
+        "link": "https://classrooms.its.virginia.edu/list/ridley-g004",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 154,
+        "name": "Ridley G006",
+        "location_id_id": 33,
+        "space_type": "Classroom",
+        "capacity": 54,
+        "link": "https://classrooms.its.virginia.edu/list/ridley-g006",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 155,
+        "name": "RIdley G008",
+        "location_id_id": 33,
+        "space_type": "Classroom",
+        "capacity": 170,
+        "link": "https://classrooms.its.virginia.edu/list/ridley-g008",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 156,
+        "name": "Robertson 116 (Commerce)",
+        "location_id_id": 32,
+        "space_type": "Classroom",
+        "capacity": 63,
+        "link": "https://classrooms.its.virginia.edu/list/robertson-116-commerce",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 157,
+        "name": "Robertson 118 (Commerce)",
+        "location_id_id": 32,
+        "space_type": "Classroom",
+        "capacity": 63,
+        "link": "https://classrooms.its.virginia.edu/list/robertson-118-commerce",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 158,
+        "name": "Robertson 120 (Commerce)",
+        "location_id_id": 32,
+        "space_type": "Classroom",
+        "capacity": 169,
+        "link": "https://classrooms.its.virginia.edu/list/robertson-120-commerce",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 159,
+        "name": "Robertson 123 (Commerce)",
+        "location_id_id": 32,
+        "space_type": "Classroom",
+        "capacity": 102,
+        "link": "https://classrooms.its.virginia.edu/list/robertson-123-commerce",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 160,
+        "name": "Robertson 221 (Commerce)",
+        "location_id_id": 32,
+        "space_type": "Classroom",
+        "capacity": 40,
+        "link": "https://classrooms.its.virginia.edu/list/robertson-221-commerce",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 161,
+        "name": "Robertson 223 (Commerce)",
+        "location_id_id": 32,
+        "space_type": "Classroom",
+        "capacity": 56,
+        "link": "https://classrooms.its.virginia.edu/list/robertson-223-commerce",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 162,
+        "name": "Robertson 225 (Commerce)",
+        "location_id_id": 32,
+        "space_type": "Classroom",
+        "capacity": 56,
+        "link": "https://classrooms.its.virginia.edu/list/robertson-225-commerce",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 163,
+        "name": "Robertson 227 (Commerce)",
+        "location_id_id": 32,
+        "space_type": "Classroom",
+        "capacity": 40,
+        "link": "https://classrooms.its.virginia.edu/list/robertson-227-commerce",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 164,
+        "name": "Robertson 254 (Commerce)",
+        "location_id_id": 32,
+        "space_type": "Classroom",
+        "capacity": 56,
+        "link": "https://classrooms.its.virginia.edu/list/robertson-254-commerce",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 165,
+        "name": "Robertson 256 (Commerce)",
+        "location_id_id": 32,
+        "space_type": "Classroom",
+        "capacity": 56,
+        "link": "https://classrooms.its.virginia.edu/list/robertson-256-commerce",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 166,
+        "name": "Robertson 258 (Commerce)",
+        "location_id_id": 32,
+        "space_type": "Classroom",
+        "capacity": 54,
+        "link": "https://classrooms.its.virginia.edu/list/robertson-258-commerce",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 167,
+        "name": "Robertson 260 (Commerce)",
+        "location_id_id": 32,
+        "space_type": "Classroom",
+        "capacity": 42,
+        "link": "https://classrooms.its.virginia.edu/list/robertson-260-commerce",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 168,
+        "name": "Rotunda 102",
+        "location_id_id": 36,
+        "space_type": "Classroom",
+        "capacity": 25,
+        "link": "https://classrooms.its.virginia.edu/list/rotunda-102",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 169,
+        "name": "Rotunda 150",
+        "location_id_id": 36,
+        "space_type": "Classroom",
+        "capacity": 25,
+        "link": "https://classrooms.its.virginia.edu/list/rotunda-150",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 170,
+        "name": "Rotunda 152",
+        "location_id_id": 36,
+        "space_type": "Classroom",
+        "capacity": 20,
+        "link": "https://classrooms.its.virginia.edu/list/rotunda-152",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 171,
+        "name": "Rouss 403",
+        "location_id_id": 35,
+        "space_type": "Classroom",
+        "capacity": 48,
+        "link": "https://classrooms.its.virginia.edu/list/rouss-403",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 172,
+        "name": "Rouss 410 (Commerce)",
+        "location_id_id": 35,
+        "space_type": "Classroom",
+        "capacity": 48,
+        "link": "https://classrooms.its.virginia.edu/list/rouss-410-commerce",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 173,
+        "name": "Thornton A120",
+        "location_id_id": 38,
+        "space_type": "Classroom",
+        "capacity": 93,
+        "link": "https://classrooms.its.virginia.edu/list/thornton-a120",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 174,
+        "name": "Thornton A207",
+        "location_id_id": 38,
+        "space_type": "Classroom",
+        "capacity": 48,
+        "link": "https://classrooms.its.virginia.edu/list/thornton-a207",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 175,
+        "name": "Thornton D115",
+        "location_id_id": 38,
+        "space_type": "Classroom",
+        "capacity": 35,
+        "link": "https://classrooms.its.virginia.edu/list/thornton-d115",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 176,
+        "name": "Thornton D222",
+        "location_id_id": 38,
+        "space_type": "Classroom",
+        "capacity": 36,
+        "link": "https://classrooms.its.virginia.edu/list/thornton-d222",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 177,
+        "name": "Thornton D223",
+        "location_id_id": 38,
+        "space_type": "Classroom",
+        "capacity": 48,
+        "link": "https://classrooms.its.virginia.edu/list/thornton-d223",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 178,
+        "name": "Thornton E303",
+        "location_id_id": 38,
+        "space_type": "Classroom",
+        "capacity": 100,
+        "link": "https://classrooms.its.virginia.edu/list/thornton-e303",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 179,
+        "name": "Thornton E304",
+        "location_id_id": 38,
+        "space_type": "Classroom",
+        "capacity": 48,
+        "link": "https://classrooms.its.virginia.edu/list/thornton-e304",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 180,
+        "name": "Thornton E316",
+        "location_id_id": 38,
+        "space_type": "Classroom",
+        "capacity": 94,
+        "link": "https://classrooms.its.virginia.edu/list/thornton-e316",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 181,
+        "name": "Warner 104",
+        "location_id_id": 40,
+        "space_type": "Classroom",
+        "capacity": 60,
+        "link": "https://classrooms.its.virginia.edu/list/warner-104",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 182,
+        "name": "Warner 110",
+        "location_id_id": 40,
+        "space_type": "Classroom",
+        "capacity": 35,
+        "link": "https://classrooms.its.virginia.edu/list/warner-110",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 183,
+        "name": "Warner 112",
+        "location_id_id": 40,
+        "space_type": "Classroom",
+        "capacity": 15,
+        "link": "https://classrooms.its.virginia.edu/list/warner-112",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 184,
+        "name": "Warner 113",
+        "location_id_id": 40,
+        "space_type": "Classroom",
+        "capacity": 30,
+        "link": "https://classrooms.its.virginia.edu/list/warner-113",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 185,
+        "name": "Warner 115",
+        "location_id_id": 40,
+        "space_type": "Classroom",
+        "capacity": 49,
+        "link": "https://classrooms.its.virginia.edu/list/warner-115",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 186,
+        "name": "Warner 209",
+        "location_id_id": 40,
+        "space_type": "Classroom",
+        "capacity": 294,
+        "link": "https://classrooms.its.virginia.edu/list/warner-209",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 187,
+        "name": "Wilson 214",
+        "location_id_id": 39,
+        "space_type": "Classroom",
+        "capacity": 30,
+        "link": "https://classrooms.its.virginia.edu/list/wilson-214",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 188,
+        "name": "Wilson 238",
+        "location_id_id": 39,
+        "space_type": "Classroom",
+        "capacity": 35,
+        "link": "https://classrooms.its.virginia.edu/list/wilson-238",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 189,
+        "name": "Wilson 244",
+        "location_id_id": 39,
+        "space_type": "Classroom",
+        "capacity": 20,
+        "link": "https://classrooms.its.virginia.edu/list/wilson-244",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 190,
+        "name": "Wilson 301",
+        "location_id_id": 39,
+        "space_type": "Classroom",
+        "capacity": 200,
+        "link": "https://classrooms.its.virginia.edu/list/wilson-301",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 191,
+        "name": "Wilson 325",
+        "location_id_id": 39,
+        "space_type": "Classroom",
+        "capacity": 99,
+        "link": "https://classrooms.its.virginia.edu/list/wilson-325",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 192,
+        "name": "Wilson 402",
+        "location_id_id": 39,
+        "space_type": "Classroom",
+        "capacity": 308,
+        "link": "https://classrooms.its.virginia.edu/list/wilson-402",
+        "reservable": false
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 193,
+        "name": "Brown 148",
+        "location_id_id": 3,
+        "space_type": "Group Study Room",
+        "capacity": 20,
+        "link": "https://cal.lib.virginia.edu/spaces?lid=1411",
+        "reservable": true
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 194,
+        "name": "Brown 155",
+        "location_id_id": 3,
+        "space_type": "Group Study Room",
+        "capacity": 10,
+        "link": "https://cal.lib.virginia.edu/spaces?lid=1411",
+        "reservable": true
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 195,
+        "name": "Brown 156",
+        "location_id_id": 3,
+        "space_type": "Group Study Room",
+        "capacity": 14,
+        "link": "https://cal.lib.virginia.edu/spaces?lid=1411",
+        "reservable": true
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 196,
+        "name": "Brown G-046",
+        "location_id_id": 3,
+        "space_type": "Group Study Room",
+        "capacity": 6,
+        "link": "https://cal.lib.virginia.edu/spaces?lid=1411",
+        "reservable": true
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 197,
+        "name": "Table A",
+        "location_id_id": 3,
+        "space_type": "Group Study Table",
+        "capacity": 6,
+        "link": "https://cal.lib.virginia.edu/spaces?lid=1411",
+        "reservable": true
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 198,
+        "name": "Table B",
+        "location_id_id": 3,
+        "space_type": "Group Study Table",
+        "capacity": 6,
+        "link": "https://cal.lib.virginia.edu/spaces?lid=1411",
+        "reservable": true
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 199,
+        "name": "Clemons 220",
+        "location_id_id": 12,
+        "space_type": "Group Study Room",
+        "capacity": 10,
+        "link": "https://cal.lib.virginia.edu/spaces?lid=2172",
+        "reservable": true
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 200,
+        "name": "Clemons 221",
+        "location_id_id": 12,
+        "space_type": "Group Study Room",
+        "capacity": 5,
+        "link": "https://cal.lib.virginia.edu/spaces?lid=2172",
+        "reservable": true
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 201,
+        "name": "Clemons 222",
+        "location_id_id": 12,
+        "space_type": "Group Study Room",
+        "capacity": 5,
+        "link": "https://cal.lib.virginia.edu/spaces?lid=2172",
+        "reservable": true
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 202,
+        "name": "Clemons 224",
+        "location_id_id": 12,
+        "space_type": "Group Study Room",
+        "capacity": 5,
+        "link": "https://cal.lib.virginia.edu/spaces?lid=2172",
+        "reservable": true
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 203,
+        "name": "Clemons 226",
+        "location_id_id": 12,
+        "space_type": "Group Study Room",
+        "capacity": 4,
+        "link": "https://cal.lib.virginia.edu/spaces?lid=2172",
+        "reservable": true
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 204,
+        "name": "Clemons 227",
+        "location_id_id": 12,
+        "space_type": "Group Study Room",
+        "capacity": 5,
+        "link": "https://cal.lib.virginia.edu/spaces?lid=2172",
+        "reservable": true
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 205,
+        "name": "Clemons 230",
+        "location_id_id": 12,
+        "space_type": "Group Study Room",
+        "capacity": 5,
+        "link": "https://cal.lib.virginia.edu/spaces?lid=2172",
+        "reservable": true
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 206,
+        "name": "Clemons 234",
+        "location_id_id": 12,
+        "space_type": "Group Study Room",
+        "capacity": 3,
+        "link": "https://cal.lib.virginia.edu/spaces?lid=2172",
+        "reservable": true
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 207,
+        "name": "Clemons 237",
+        "location_id_id": 12,
+        "space_type": "Group Study Room",
+        "capacity": 5,
+        "link": "https://cal.lib.virginia.edu/spaces?lid=2172",
+        "reservable": true
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 208,
+        "name": "Clemons 238",
+        "location_id_id": 12,
+        "space_type": "Group Study Room",
+        "capacity": 5,
+        "link": "https://cal.lib.virginia.edu/spaces?lid=2172",
+        "reservable": true
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 209,
+        "name": "Clemons 240",
+        "location_id_id": 12,
+        "space_type": "Group Study Room",
+        "capacity": 6,
+        "link": "https://cal.lib.virginia.edu/spaces?lid=2172",
+        "reservable": true
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 210,
+        "name": "Clemons 241",
+        "location_id_id": 12,
+        "space_type": "Group Study Room",
+        "capacity": 6,
+        "link": "https://cal.lib.virginia.edu/spaces?lid=2172",
+        "reservable": true
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 211,
+        "name": "Clemons 245",
+        "location_id_id": 12,
+        "space_type": "Group Study Room",
+        "capacity": 6,
+        "link": "https://cal.lib.virginia.edu/spaces?lid=2172",
+        "reservable": true
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 212,
+        "name": "Clemons 202",
+        "location_id_id": 12,
+        "space_type": "Group Study Table",
+        "capacity": 12,
+        "link": "https://cal.lib.virginia.edu/spaces?lid=2172",
+        "reservable": true
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 213,
+        "name": "Clemons 203",
+        "location_id_id": 12,
+        "space_type": "Group Study Table",
+        "capacity": 12,
+        "link": "https://cal.lib.virginia.edu/spaces?lid=2172",
+        "reservable": true
+            ,"comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    },
+    {
+        "studyspace_id": 214,
+        "name": "Clemons 204",
+        "location_id_id": 12,
+        "space_type": "Group Study Table",
+        "capacity": 24,
+        "link": "https://cal.lib.virginia.edu/spaces?lid=2172",
+        "reservable": true,
+        "comments": [],
+        "overall_ratings": [],
+        "comfort_ratings": [],
+        "crowdedness_ratings": [],
+        "noise_level_ratings": []
+    }
+]

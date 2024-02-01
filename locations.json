@@ -1,0 +1,380 @@
+[
+    {
+        "location_id": 1,
+        "name": "Alderman Library",
+        "location_type": "Library",
+        "address": "160 McCormick Rd, Charlottesville, VA 22904",
+        "lat": 38.0368398,
+        "lng": -78.505118,
+        "on_grounds": true
+    },
+    {
+        "location_id": 2,
+        "name": "Brooks Hall ",
+        "location_type": "Academic Building",
+        "address": "1700 University Ave, Charlottesville, VA 22903",
+        "lat": 38.0358061,
+        "lng": -78.5021417,
+        "on_grounds": true
+    },
+    {
+        "location_id": 3,
+        "name": "Brown College Library",
+        "location_type": "Library",
+        "address": "291 McCormick Rd, Charlottesville, VA 22903",
+        "lat": 38.0330428,
+        "lng": -78.5078494,
+        "on_grounds": true
+    },
+    {
+        "location_id": 4,
+        "name": "New Cabell Hall",
+        "location_type": "Academic Building",
+        "address": "University of Virginia, 1605 Jefferson Park Ave, Charlottesville, VA 22903",
+        "lat": 38.0335529,
+        "lng": -78.5079772,
+        "on_grounds": true
+    },
+    {
+        "location_id": 5,
+        "name": "Campbell Hall",
+        "location_type": "Academic Building",
+        "address": "University of Virginia, 110 Bayly Dr, Charlottesville, VA 22903",
+        "lat": 38.0388356,
+        "lng": -78.504099,
+        "on_grounds": true
+    },
+    {
+        "location_id": 6,
+        "name": "Chemical Engineering Building",
+        "location_type": "Academic Building",
+        "address": "102 Engineer's Way, Charlottesville, VA 22903",
+        "lat": 38.0334427,
+        "lng": -78.510749,
+        "on_grounds": true
+    },
+    {
+        "location_id": 7,
+        "name": "Claude Moore Nursing",
+        "location_type": "Academic Building",
+        "address": "225 Jeanette Lancaster Way, Charlottesville, VA 22903",
+        "lat": 38.0312954,
+        "lng": -78.5021969,
+        "on_grounds": true
+    },
+    {
+        "location_id": 8,
+        "name": "Cobb Hall",
+        "location_type": "Academic Building",
+        "address": "Cobb Hall, 140 Hospital Dr, Charlottesville, VA 22903",
+        "lat": 38.0326049,
+        "lng": -78.5029132,
+        "on_grounds": true
+    },
+    {
+        "location_id": 9,
+        "name": "Cocke Hall",
+        "location_type": "Academic Building",
+        "address": "Jefferson Park Ave, Charlottesville, VA 22903",
+        "lat": 38.0284661,
+        "lng": -78.5099107,
+        "on_grounds": true
+    },
+    {
+        "location_id": 10,
+        "name": "Chemistry Building ",
+        "location_type": "Academic Building",
+        "address": "409 McCormick Rd, Charlottesville, VA 22904",
+        "lat": 38.033296,
+        "lng": -78.5117542,
+        "on_grounds": true
+    },
+    {
+        "location_id": 11,
+        "name": "Clark Hall",
+        "location_type": "Academic Building",
+        "address": "291 McCormick Rd, Charlottesville, VA 22903",
+        "lat": 38.0330428,
+        "lng": -78.5078494,
+        "on_grounds": true
+    },
+    {
+        "location_id": 12,
+        "name": "Clemons Library",
+        "location_type": "Library",
+        "address": "164 McCormick Rd, Charlottesville, VA 22903",
+        "lat": 38.036354,
+        "lng": -78.50609,
+        "on_grounds": true
+    },
+    {
+        "location_id": 13,
+        "name": "Drama Education Building ",
+        "location_type": "Academic Building",
+        "address": "109 Culbreth Rd, Charlottesville, VA 22903",
+        "lat": 38.0392907,
+        "lng": -78.5039616,
+        "on_grounds": true
+    },
+    {
+        "location_id": 14,
+        "name": "Gibson Hall",
+        "location_type": "Academic Building",
+        "address": "1540 Jefferson Park Ave, Charlottesville, VA 22904",
+        "lat": 38.0315967,
+        "lng": -78.505382,
+        "on_grounds": true
+    },
+    {
+        "location_id": 15,
+        "name": "Gilmer Hall ",
+        "location_type": "Academic Building",
+        "address": "485 McCormick Rd, Charlottesville, VA 22904",
+        "lat": 38.0341859,
+        "lng": -78.5128051,
+        "on_grounds": true
+    },
+    {
+        "location_id": 16,
+        "name": "Darden School",
+        "location_type": "Academic Building",
+        "address": "100 Darden Blvd, Charlottesville, VA 22903",
+        "lat": 38.0517298,
+        "lng": -78.514259,
+        "on_grounds": true
+    },
+    {
+        "location_id": 17,
+        "name": "Halsey Hall ",
+        "location_type": "Academic Building",
+        "address": "148 Amphitheater Way, Charlottesville, VA 22903",
+        "lat": 38.0329398,
+        "lng": -78.50691,
+        "on_grounds": true
+    },
+    {
+        "location_id": 18,
+        "name": "Mechanical Engineering Building",
+        "location_type": "Academic Building",
+        "address": "122 Engineer's Way, Charlottesville, VA 22903",
+        "lat": 38.0326489,
+        "lng": -78.5110592,
+        "on_grounds": true
+    },
+    {
+        "location_id": 19,
+        "name": "Minor Hall",
+        "location_type": "Academic Building",
+        "address": "Minor Hall, McCormick Rd, Charlottesville, VA 22904",
+        "lat": 38.0339031,
+        "lng": -78.5064804,
+        "on_grounds": true
+    },
+    {
+        "location_id": 20,
+        "name": "Monroe Hall",
+        "location_type": "Academic Building",
+        "address": "Monroe Hall, Charlottesville, VA 22904",
+        "lat": 38.034837,
+        "lng": -78.5064309,
+        "on_grounds": true
+    },
+    {
+        "location_id": 21,
+        "name": "Maury Hall ",
+        "location_type": "Academic Building",
+        "address": "1512 Jefferson Park Ave, Charlottesville, VA 22903",
+        "lat": 38.0325868,
+        "lng": -78.5044607,
+        "on_grounds": true
+    },
+    {
+        "location_id": 22,
+        "name": "Materials Science Building",
+        "location_type": "Academic Building",
+        "address": "Jesser Hall, Chemistry Dr, Charlottesville, VA 22903",
+        "lat": 38.0331362,
+        "lng": -78.5109238,
+        "on_grounds": true
+    },
+    {
+        "location_id": 23,
+        "name": "Nau Hall",
+        "location_type": "Academic Building",
+        "address": "1540 Jefferson Park Ave, Charlottesville, VA 22903",
+        "lat": 38.0315967,
+        "lng": -78.505382,
+        "on_grounds": true
+    },
+    {
+        "location_id": 24,
+        "name": "Newcomb Hall",
+        "location_type": "Academic Building",
+        "address": "180 McCormick Rd, Charlottesville, VA 22903",
+        "lat": 38.0358516,
+        "lng": -78.506639,
+        "on_grounds": true
+    },
+    {
+        "location_id": 25,
+        "name": "Old Cabell Hall",
+        "location_type": "Academic Building",
+        "address": "Old Cabell Hall, Charlottesville, VA 22903",
+        "lat": 38.0328595,
+        "lng": -78.5048615,
+        "on_grounds": true
+    },
+    {
+        "location_id": 26,
+        "name": "Olsson Hall",
+        "location_type": "Academic Building",
+        "address": "151 Engineer's Way, Charlottesville, VA 22903",
+        "lat": 38.032088,
+        "lng": -78.510695,
+        "on_grounds": true
+    },
+    {
+        "location_id": 27,
+        "name": "Peabody Hall",
+        "location_type": "Academic Building",
+        "address": "190 McCormick Rd, Charlottesville, VA 22903",
+        "lat": 38.0356292,
+        "lng": -78.5061366,
+        "on_grounds": true
+    },
+    {
+        "location_id": 28,
+        "name": "Physics Building ",
+        "location_type": "Academic Building",
+        "address": "382 McCormick Rd, Charlottesville, VA 22904",
+        "lat": 38.0341955,
+        "lng": -78.5100321,
+        "on_grounds": true
+    },
+    {
+        "location_id": 29,
+        "name": "Pavilion V ",
+        "location_type": "Academic Building",
+        "address": "Pavilion V, East Lawn, University of Virginia campus, Charlottesville, VA ",
+        "lat": 38.0349762,
+        "lng": -78.5042027,
+        "on_grounds": true
+    },
+    {
+        "location_id": 30,
+        "name": "Pavilion VIII ",
+        "location_type": "Academic Building",
+        "address": "Pavilion VIII, East Lawn, University of Virginia campus, Charlottesville, VA ",
+        "lat": 38.034362,
+        "lng": -78.5035983,
+        "on_grounds": true
+    },
+    {
+        "location_id": 31,
+        "name": "Randall Hall ",
+        "location_type": "Academic Building",
+        "address": "130 Hospital Dr, Charlottesville, VA 22903",
+        "lat": 38.0333085,
+        "lng": -78.5033,
+        "on_grounds": true
+    },
+    {
+        "location_id": 32,
+        "name": "Robertson Hall",
+        "location_type": "Academic Building",
+        "address": "Rouss Hall and Robertson Hall (McIntire School of Commerce), 140 Hospital Dr, Charlottesville, VA 22903",
+        "lat": 38.0329799,
+        "lng": -78.5037225,
+        "on_grounds": true
+    },
+    {
+        "location_id": 33,
+        "name": "Ridley Hall ",
+        "location_type": "Academic Building",
+        "address": "405 Emmet St S, Charlottesville, VA 22904",
+        "lat": 38.0346734,
+        "lng": -78.5094827,
+        "on_grounds": true
+    },
+    {
+        "location_id": 34,
+        "name": "Rice Hall",
+        "location_type": "Academic Building",
+        "address": "85 Engineer's Way, Charlottesville, VA 22903",
+        "lat": 38.0316188,
+        "lng": -78.5108459,
+        "on_grounds": true
+    },
+    {
+        "location_id": 35,
+        "name": "Rouss Hall",
+        "location_type": "Academic Building",
+        "address": "Rouss Hall and Robertson Hall (McIntire School of Commerce), 140 Hospital Dr, Charlottesville, VA 22903",
+        "lat": 38.0329799,
+        "lng": -78.5037225,
+        "on_grounds": true
+    },
+    {
+        "location_id": 36,
+        "name": "Rotunda",
+        "location_type": "Other",
+        "address": "1826 University Ave, Charlottesville, VA 22904",
+        "lat": 38.0359937,
+        "lng": -78.5031717,
+        "on_grounds": true
+    },
+    {
+        "location_id": 37,
+        "name": "Ruffin Hall",
+        "location_type": "Academic Building",
+        "address": "179 Culbreth Rd, Charlottesville, VA 22903",
+        "lat": 38.0394088,
+        "lng": -78.5032162,
+        "on_grounds": true
+    },
+    {
+        "location_id": 38,
+        "name": "Thornton Hall ",
+        "location_type": "Academic Building",
+        "address": "351 McCormick Rd, Charlottesville, VA 22904",
+        "lat": 38.0333076,
+        "lng": -78.5096557,
+        "on_grounds": true
+    },
+    {
+        "location_id": 39,
+        "name": "Wilson Hall",
+        "location_type": "Academic Building",
+        "address": "115 Ruppel Dr, Charlottesville, VA 22904",
+        "lat": 38.0324526,
+        "lng": -78.5037687,
+        "on_grounds": true
+    },
+    {
+        "location_id": 40,
+        "name": "Warner Hall ",
+        "location_type": "Academic Building",
+        "address": "1512 Jefferson Park Ave, Charlottesville, VA 22903",
+        "lat": 38.0325868,
+        "lng": -78.5044607,
+        "on_grounds": true
+    },
+    {
+        "location_id": 41,
+        "name": "McLeod Hall",
+        "location_type": "Academic Building",
+        "address": "202 Jeanette Lancaster Way, Charlottesville, VA 22903",
+        "lat": 38.0307661,
+        "lng": -78.5016847,
+        "on_grounds": true
+    },
+    {
+        "location_id": 42,
+        "name": "Bryan Hall",
+        "location_type": "Academic Building",
+        "address": "Bryan Hall, Charlottesville, VA 22903",
+        "lat": 38.0332951,
+        "lng": -78.5059744,
+        "on_grounds": true
+    }
+]

@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+
+{% block content %}
+{% load static %}
+<link rel="stylesheet" href="{% static 'studyspots/style.css' %}">
+<div class="container">
+    <div class="row">
+        <!-- spacing here -->
+        <div class="col-md-12">
+            <ul class="list-group mt-n5">
+                <h2 class="title-text">Home Page</h2>
+                {% load socialaccount %}
+                {% if user.is_authenticated %}
+                    {% if user.admin.is_admin %}
+                        <p class="home-text"> Welcome admin, you are logged in as {{ user.email }}</p>
+                    {% else %}
+                        <p class="home-text"> Welcome user, you are logged in as {{ user.email }}</p>
+                    {% endif %}
+                {% else %}
+                    <p class="home-text">You are not logged in. Click <a href="{% provider_login_url "google" method="oauth2" %}">here</a> to login.</p>
+                {% endif %}
+            </ul>
+        </div>
+    </div>
+</div>
+{% endblock %}

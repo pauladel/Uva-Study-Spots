@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+{% block content %}
+{% load static %}
+{% load bootstrap5 %}
+<link rel="stylesheet" href="{% static 'studyspots/style.css' %}">
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col">
+            {% if user.is_authenticated and not user.admin.is_admin %}
+                <div class="alert alert-danger text-center">
+                    <h3>No access to this page</h3>
+                </div>
+            {% elif user.is_authenticated and user.admin.is_admin %}
+                {% if pending_studyspaces %}
+                    <h3 class="text-center">Pending Study Spots</h3>
+                    <ul class="list-group">
+                        {% for studyspace in pending_studyspaces %}
+                            <li class="list-group-item">
+                                <span class="font-weight-bold">{{ studyspace.location }}:</span>
+                                <a href="{% url 'studyspots:pending' %}?studyspot={{ studyspace.studyspace_id }}" class="font-weight-bold">{{ studyspace.name }}</a>
+                            </li>
+                        {% endfor %}
+                    </ul>
+                {% else %}
+                    <div class="alert alert-info text-center">
+                        <h3>Currently no pending spots</h3>
+                    </div>
+                {% endif %}
+            {% endif %}
+        </div>
+    </div>
+</div>
+
+{% endblock %}

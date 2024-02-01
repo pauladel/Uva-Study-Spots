@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+{% block content %}
+{% load static %}
+<link rel="stylesheet" href="{% static 'studyspots/style.css' %}">
+
+<div class="container mt-4">
+    <div class="text-center">
+        <div class="mt-2">
+            <h2 class="text-center">Spot
+                {% if action == 1 %}
+                Approved!
+                {% elif action == 2 %}
+                Rejected.
+                {% elif action == 3 %}
+                Edited.
+                {% else %}
+                returned incorrect action. Try again.
+                {% endif %}
+                </h2>
+            <a href="{% url 'studyspots:pending' %}" class="btn btn-primary btn-lg mr-3">Return to Pending Spots</a>
+            <a href="{% url 'studyspots:map' %}" class="btn btn-primary btn-lg mr-3">Return to Map</a>
+        </div>
+    </div>
+</div>
+
+{% endblock %}

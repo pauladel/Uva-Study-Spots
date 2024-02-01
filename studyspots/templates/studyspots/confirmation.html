@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+{% block content %}
+{% load static %}
+<link rel="stylesheet" href="{% static 'studyspots/style.css' %}">
+
+<body>
+    <div class="container align-items-center mt-4" style="min-height: 100vh;">
+        <div class="text-center">
+            <h1 class="display-4">Spot Submitted for Approval!</h1>
+            <p class="lead">Your spot is pending approval from an admin user.</p>
+            <div class="mt-2">
+                <a href="{% url 'studyspots:add' %}" class="btn btn-primary btn-lg mr-3">Add Another Spot</a>
+                <a href="{% url 'studyspots:map' %}" class="btn btn-secondary btn-lg">Return to Map</a>
+            </div>
+        </div>
+    </div>
+</body>
+
+{% endblock %}

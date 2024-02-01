@@ -1,0 +1,66 @@
+{% extends 'base.html' %}
+
+{% block content %}
+{% load static %}
+<link rel="stylesheet" href="{% static 'studyspots/style.css' %}">
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h2 class="title-text">Review for {{ studyspace.name }}</h2>
+            <form action="{% url 'studyspots:process_studyspace_review'%}?location={{ location_id }}&space={{ studyspace.location_ordinal  }}" method="post" class="mt-5">
+                {% csrf_token %}
+                <div class="form-group">
+                    <label for="overall"><p class="form-p home-text"><strong>Overall:</strong></p></label>
+                    <select id="overall" name="overall" class="form-control" required>
+                        <option value="1">★ Would Not Recommend</option>
+                        <option value="2">★★</option>
+                        <option value="3">★★★</option>
+                        <option value="4">★★★★</option>
+                        <option value="5">★★★★★ Highly Recommend</option>
+                    </select>
+                </div>
+                <br>
+                <div class="form-group">
+                    <label for="comfort"><p class="form-p home-text"><strong>Comfort:</strong></p></label>
+                    <select id="comfort" name="comfort" class="form-control" required>
+                        <option value="1">Very Uncomfortable</option>
+                        <option value="2">Uncomfortable</option>
+                        <option value="3">Moderate</option>
+                        <option value="4">Comfortable</option>
+                        <option value="5">Very Comfortable</option>
+                    </select>
+                </div>
+                <br>
+                <div class="form-group">
+                    <label for="noise_level"><p class="form-p home-text"><strong>Noise Level:</strong></p></label>
+                    <select id="noise_level" name="noise_level" class="form-control" required>
+                        <option value="1">Extremely Noisy</option>
+                        <option value="2">Somewhat Noisy</option>
+                        <option value="3">Moderate</option>
+                        <option value="4">Quiet</option>
+                        <option value="5">Extremely Quiet</option>
+                    </select>
+                </div>
+                <br>
+                <div class="form-group">
+                    <label for="crowdedness"><p class="form-p home-text"><strong>Crowdedness:</strong></p></label>
+                    <select id="crowdedness" name="crowdedness" class="form-control" required>
+                        <option value="1">Overcrowded</option>
+                        <option value="2">Crowded</option>
+                        <option value="3">Moderately Crowded</option>
+                        <option value="4">Ample Space</option>
+                        <option value="5">Empty</option>
+                    </select>
+                </div>
+                <br>
+                <div class="form-group">
+                    <label for="comment"><p class="form-p home-text"><strong>Comment:</strong></p></label>
+                    <textarea id="comment" name="comment" class="form-control study-space-form" rows="5"></textarea>
+                </div>
+                
+                <input type="submit" value="Submit" class="btn mt-3 study-space-btn">
+            </form>
+        </div>
+    </div>
+</div>
+{% endblock %}

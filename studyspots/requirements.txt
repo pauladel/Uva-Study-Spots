@@ -1,0 +1,12 @@
+dj-database-url
+django~=4.2.6
+django-allauth
+django-bootstrap-v5
+gunicorn
+psycopg2
+whitenoise
+googlemaps
+dj-config-url
+djangorestframework
+geopy
+GitPython

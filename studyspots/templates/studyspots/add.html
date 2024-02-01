@@ -1,0 +1,150 @@
+{% extends 'base.html' %}
+{% block content %}
+{% load static %}
+{% load bootstrap5 %}
+<link rel="stylesheet" href="{% static 'studyspots/style.css' %}">
+<script>
+    {% if starting_location %}
+        const startingLocation = [{{ starting_location }}][0];
+    {% endif %}
+    const makeNewLocationLabel = '{{ make_new_location_label }}';
+    let locations = JSON.parse('{{ locations | escapejs }}');
+    locations.sort((a, b) => a.name.localeCompare(b.name));
+    locations.push({location_id: -1, name: makeNewLocationLabel})
+    const startingPosition = JSON.parse('{{ latlng | escapejs }}');
+</script>
+<body>
+    <div class="container mt-5">
+        <form method="post">
+            {% csrf_token %}
+            <div id="existing-location-dropdown" style="display: block;" class="my-3">
+                <div class="container">
+                    {% if error_message %}
+                        <p class="text-danger mt-3">{{ error_message }}</p>
+                    {% endif %}
+                    <div class="row">
+                        <div class="col">
+                            <h3>Choose Location:</h3>
+                            <div class="col-6 mx-auto">
+                                {% bootstrap_form selected_location_form %}
+                                <select name="existing_location" id="existing-location-select" class="form-select form-select-med">
+                                    <option id="defaultOption" selected>Select an existing location</option>
+                                    <script>
+                                        {% if starting_location %}
+                                        let defaultOption = document.getElementById('defaultOption');
+                                        defaultOption.selected = false;
+                                        {% endif %}
+                                        // Access the `locations` variable
+                                        locations.forEach(function(location) {
+                                            let selectHTML = `<option value="${location.location_id}">${location.name}</option>`
+                                            {% if starting_location %}
+                                            if(location.location_id === startingLocation){
+                                                selectHTML = `<option value="${location.location_id}" selected>${location.name}</option>`
+                                            }
+                                            {% endif %}
+                                            document.write(selectHTML);
+                                        });
+
+                                    </script>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        <div id="new-location-form" style="display: none">
+
+        </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <h3>Add Spot:</h3>
+                        {% bootstrap_form new_studyspace_form %}
+                        <div class="text-center">
+                            <input type="submit" class="btn btn-primary mt-3" id="submit-button" value="Submit Spot for Approval">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <script>
+                function get_map_add_with_location_url(location_id){
+                    return "{% url 'studyspots:add' %}?location="+location_id;
+                }
+                let locationSelect = document.getElementById('existing-location-select');
+                let newLocationForm = document.getElementById('new-location-form');
+                locationSelect.addEventListener('change', function() {
+                    document.getElementById('submit-button').disabled = false;
+                    document.getElementById("id_selector-selected_location").value = locationSelect.value;
+                    window.history.replaceState({}, document.title, get_map_add_with_location_url(locationSelect.value));
+                    if(locationSelect.value === '-1'){
+                        toggleLocationForm(true);
+                    }else{
+                        toggleLocationForm(false);
+                    }
+                });
+                const newLocationContent = `<div class="container">
+                                                            <div class="row">
+                                                                <div class="col">
+                                                                    <h3>Add Location:</h3>
+                                                                    <div id="map" style="width: 100%; height: 400px;"></div>
+                                                                    <p class="text-muted mt-3">Drag the pin to your desired location on the map.</p>
+                                                                    {% bootstrap_form new_location_form %}
+                                                                </div>
+                                                            </div>
+                                                        </div>`;
+                function toggleLocationForm(on){
+                    if(on){
+                        newLocationForm.style.display = 'block';
+                        newLocationForm.innerHTML=newLocationContent
+                        initMap()
+                    }else{
+                        newLocationForm.style.display = 'none';
+                        newLocationForm.innerHTML=``;
+                    }
+                }
+            </script>
+            <script>
+                let map;
+                let marker;
+                function callback(){
+                    {% if starting_location %}
+                        document.getElementById('submit-button').disabled = false;
+                        document.getElementById("id_selector-selected_location").value = startingLocation;
+                        if(startingLocation === -1){
+                            toggleLocationForm(true);
+                        }else{
+                            toggleLocationForm(false);
+                        }
+                    {% else %}
+                        document.getElementById('submit-button').disabled = true;
+                    {% endif %}
+                }
+                function initMap() {
+                    map = new google.maps.Map(document.getElementById("map"), {
+                          center: startingPosition,
+                          zoom: 17,
+                    });
+                    // Create a draggable marker
+                    marker = new google.maps.Marker({
+                        position: startingPosition,
+                        map: map,
+                        draggable: true
+                    });
+
+                    // Add an event listener to update the coordinates fields when the marker is dragged
+                    google.maps.event.addListener(marker, 'dragend', function () {
+                        var coordinates = marker.getPosition();
+                        document.getElementById("id_new_location-lat").value = coordinates.lat();
+                        document.getElementById("id_new_location-lng").value = coordinates.lng();
+                    });
+                }
+            </script>
+            <script src="https://maps.googleapis.com/maps/api/js?key={{key}}&libraries=places&callback=callback"></script>
+
+        </form>
+    </div>
+</body>
+{% endblock %}
+
+
+
